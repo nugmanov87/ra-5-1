@@ -16,7 +16,7 @@ export default function Card(props) {
         <div className="description" style={{ margin: `${20}px` }}>
           {text}
         </div>
-        <a href="#" className="ui primary button" style={{ margin: `${20}px` }}>
+        <a href="/" className="ui primary button" style={{ margin: `${20}px` }}>
           Go somewhere
         </a>
       </div>
